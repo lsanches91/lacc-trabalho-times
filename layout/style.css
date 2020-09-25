@@ -167,6 +167,7 @@ footer {
     display: flex;
     justify-content: center;
     font-size: 23px;
+    color: rgb(251, 255, 241);
 }
 #champions-div {
     display: grid;
